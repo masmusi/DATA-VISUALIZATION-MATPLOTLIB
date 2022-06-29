@@ -1,5 +1,5 @@
 # DATA-VISUALIZATION-MATPLOTLIB
-This is i will show how to visualization data with matplotlib
+I will show how to visualization data with matplotlib
 First, you must install Jupyter Notebook :
 https://docs.jupyter.org/en/latest/install/notebook-classic.html
 
